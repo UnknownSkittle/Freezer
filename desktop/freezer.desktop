@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Freezer
+Comment=Deezer Web wrapper with US proxy and adblock
+Exec=freezer
+Icon=freezer
+Terminal=false
+Type=Application
+Categories=AudioVideo;Music;
