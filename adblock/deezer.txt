@@ -1,0 +1,4 @@
+||ads.deezer.com^
+||analytics.deezer.com^
+||event.deezer.com^
+||log.deezer.com^
