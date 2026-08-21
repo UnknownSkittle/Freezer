@@ -12,7 +12,7 @@ Freezer is a lightweight Deezer Web wrapper for Arch Linux:
 
 ```bash
 sudo pacman -S --needed base-devel cmake ninja qt6-base qt6-webengine wireproxy
-git clone https://github.com/yourname/freezer.git
+git clone https://github.com/UnknownSkittle/freezer.git
 cd freezer
 cmake -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
 cmake --build build
